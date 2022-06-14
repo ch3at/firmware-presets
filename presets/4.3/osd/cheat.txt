@@ -1,7 +1,7 @@
 #$ TITLE: CHEATs 4.3 OSD settings
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
-#$ STATUS: CUSTOM
+#$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: defaults, reset, OSD, cheat
 #$ AUTHOR: cheat
 #$ DESCRIPTION: CHEATs OSD Default
