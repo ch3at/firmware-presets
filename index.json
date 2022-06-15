@@ -136,7 +136,8 @@
       "4.3"
     ],
     "category": [
-      "OSD"
+      "OSD",
+      "RATES"
     ],
     "author": [
       "cheat"
@@ -145,6 +146,7 @@
       "cheat",
       "defaults",
       "OSD",
+      "rates",
       "reset"
     ]
   },
@@ -166,6 +168,22 @@
       ],
       "author": "cheat",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/rates/cheat.txt",
+      "hash": "a67c2557f915ad5251f691746f9b67dc31e78d471273c3893ebb5be37a78771b",
+      "title": "CHEATs 4.3 5inch Rate",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates",
+        "cheat"
+      ],
+      "author": "cheat",
+      "priority": 10000
     }
   ]
 }
