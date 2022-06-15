@@ -136,8 +136,10 @@
       "4.3"
     ],
     "category": [
+      "MODES",
       "OSD",
-      "RATES"
+      "RATES",
+      "VTX"
     ],
     "author": [
       "cheat"
@@ -145,12 +147,32 @@
     "keywords": [
       "cheat",
       "defaults",
+      "modes",
       "OSD",
       "rates",
-      "reset"
+      "reset",
+      "stax",
+      "vtx",
+      "xilo"
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/4.3/modes/cheat.txt",
+      "hash": "7fc65866f89a63718d569d8796a673a510024efebcb3917a9fcdc44fe865ac3c",
+      "title": "CHEATs 4.3 5inch NV14 Modes",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "modes",
+        "cheat"
+      ],
+      "author": "cheat",
+      "priority": 0
+    },
     {
       "fullPath": "presets/4.3/osd/cheat.txt",
       "hash": "b1a653f8db23c21b0e6d445a01fa3f1dcb4c730fdb395eca703cb42ed5c2bb0c",
@@ -184,6 +206,24 @@
       ],
       "author": "cheat",
       "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/cheat.txt",
+      "hash": "910ecbe90b49ba34d4963cef03e68ebcc7be3ba29e0a203792b9f59434de6c44",
+      "title": "CHEATs 4.3 Xylo Stax VTX Table",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "vtx",
+        "cheat",
+        "xilo",
+        "stax"
+      ],
+      "author": "cheat",
+      "priority": 1000000
     }
   ]
 }

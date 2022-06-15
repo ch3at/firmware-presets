@@ -1,0 +1,33 @@
+#$ TITLE: CHEATs 4.3 5inch NV14 Modes
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: modes, cheat
+#$ AUTHOR: cheat
+#$ DESCRIPTION: CHEATs Default Modes
+
+# aux
+aux 0 0 0 1900 2100 0 0
+aux 1 1 1 1900 2100 0 0
+aux 2 2 1 1400 1600 0 0
+aux 3 13 2 1800 2100 0 0
+aux 4 35 3 1800 2100 0 0
+aux 5 36 7 1800 2100 0 0
+aux 6 41 7 1800 2100 0 0
+aux 7 0 0 900 900 0 0
+aux 8 0 0 900 900 0 0
+aux 9 0 0 900 900 0 0
+aux 10 0 0 900 900 0 0
+aux 11 0 0 900 900 0 0
+aux 12 0 0 900 900 0 0
+aux 13 0 0 900 900 0 0
+aux 14 0 0 900 900 0 0
+aux 15 0 0 900 900 0 0
+aux 16 0 0 900 900 0 0
+aux 17 0 0 900 900 0 0
+aux 18 0 0 900 900 0 0
+aux 19 0 0 900 900 0 0
+
+# adjrange
+adjrange 0 0 5 900 2100 12 5 0 0
+adjrange 1 0 6 900 2100 29 6 0 0
