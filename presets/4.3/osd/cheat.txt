@@ -6,13 +6,6 @@
 #$ AUTHOR: cheat
 #$ DESCRIPTION: CHEATs OSD Default
 
-#$ OPTION_GROUP BEGIN: Crossfire RSSI
-#$ OPTION BEGIN (UNCHECKED): Crossfire RSSI
-set osd_rssi_pos = 12378
-set osd_rssi_dbm_pos = 12345
-#$ OPTION END 
-#$ OPTION_GROUP END
-
 set osd_units = METRIC
 set osd_warn_arming_disable = ON
 set osd_warn_batt_not_full = ON
@@ -147,3 +140,10 @@ set osd_camera_frame_height = 11
 set osd_stat_avg_cell_value = OFF
 set osd_framerate_hz = 12
 set osd_menu_background = TRANSPARENT
+
+#$ OPTION_GROUP BEGIN: Crossfire RSSI
+#$ OPTION BEGIN (UNCHECKED): Crossfire RSSI
+set osd_rssi_pos = 12378
+set osd_rssi_dbm_pos = 12345
+#$ OPTION END 
+#$ OPTION_GROUP END
