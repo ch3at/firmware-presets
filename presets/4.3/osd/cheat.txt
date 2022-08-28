@@ -6,7 +6,10 @@
 #$ AUTHOR: cheat
 #$ DESCRIPTION: CHEATs OSD Default
 
-# 
+#$ OPTION BEGIN (UNCHECKED): Crossfire RSSI
+set osd_rssi_pos = 12378
+set osd_rssi_dbm_pos = 12345
+#$ OPTION END 
 
 set osd_units = METRIC
 set osd_warn_arming_disable = ON
